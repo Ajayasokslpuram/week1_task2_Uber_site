@@ -1,0 +1,652 @@
+@import url(//db.onlinewebfonts.com/c/573089545ab542f15b3e755559e383ae?family=Uber+Move);
+
+body { 
+    margin: 0;   /* Remove body margins */
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    height: 500px;
+
+  font-family:UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html{
+  height: 3000px;
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 60px;
+  height: 77px;
+
+}
+
+.topnav a.logo{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    padding-top: 20px;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  margin-top: 5px;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+border-radius: 15px;
+margin-top:5px;
+
+background-color: rgb(49, 49, 49);
+color: white;
+}
+.topnav button.btn{
+    float: right;
+    background-color: white;
+    border-radius: 30px;
+    margin: 20px;
+    height: 39px;
+    width: 82px;
+
+}
+
+.topnav a.about{
+float: right;
+}
+
+
+.floatMenu{
+    width: 583px;
+    height: 521px;
+    margin-left: 93px;
+    background-color: white;
+    position: relative;
+    top: -590px;
+}
+.floatTop{
+    width: 583px;
+    height: 115px;
+    background-color:#f3f3f3bb;
+}
+    
+.floatTopLeft {
+    float: left;
+    margin-top: 0px;
+    width: 47%;
+    height: 6px;
+    padding: 24px 3px;
+    align-items: center;
+    background-color: #f3f3f3bb;
+} 
+.img{
+    
+    position: relative;
+    left: 126px;
+
+}
+.paracar{
+  color: black;
+  font-size: 15px;
+  text-decoration: none;
+  padding-left: 128px;
+}
+.floatTopRight{
+    float: left;
+    margin-top: 0px;
+    width: 50%;
+    height: 6px;
+    padding: 24px 3px;
+    background-color:#f3f3f3bb;
+}
+.carlink{
+  text-decoration: none;
+}
+.signallink{
+  text-decoration: none;
+}
+
+.signal{
+position: relative;
+top: -4px;
+left: 140px;
+}
+.parasignal{
+  font-size: 15;
+  color: black;
+  padding-left: 109px;
+  
+}   
+.boldText{
+  justify-content: center;
+  align-items: center;
+  height: 107px;
+  padding: 9px 39px;
+  background-color: white
+}
+.h2text{
+   font-size: 45px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+.input1 {
+   height: 25px;
+    margin-right: 40px;
+    margin-left: 42px;
+    background-color: #f6f6f6;
+    padding: 22px 51px;
+}
+.firstip{
+ 
+  font-size: 17px;
+  background-color: #faf7f791;
+  border-style: hidden;
+  height: 23px;
+  width: 396px;
+  font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.input2{
+    height: 25px;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 42px;
+    background-color: #f6f6f6;
+    padding: 22px 51px;
+}
+.secondip{
+  font-size: 17px;
+  background-color: #faf7f791;
+  border-style: hidden;
+  height: 23px;
+  width: 396px;
+  font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 
+}
+#circlenotch{
+  position: relative;
+  left: 54px;
+  color: #282828;
+  top: 45px;
+  font-size: 10px;
+}
+.vline{
+  position: relative;
+    top: -103px;
+    left: 58px;
+    color: #282828;
+    border-left: 1px solid #121212;
+    height: 62px;
+}
+.square{
+  position: relative;
+  left: 51px;
+  top: -111px;
+}
+.bookbtn{
+  height: 14px;
+  width: 483px;
+  position: relative;
+  top: -107px;
+  padding: 50px 50px;
+}
+.reqNow{
+  width: 140px;
+    height: 45px;
+    border-radius: 7px;
+    background: black;
+    color: white;
+    font-weight: 540;
+    font-size: 17px;
+}
+.later{
+  width: 175px;
+  height: 50px;
+  border-radius: 7px;
+  margin-left: 18px;
+  font-weight: 540;
+  border-color: #f0f0f0;
+  border-style: hidden;
+  font-size: 17px;
+}
+.UberForBusiness
+{
+  position: relative;
+    top: -525px;
+}
+.imgBusiness{
+  height: 300px;
+    width: 100%;
+}
+.UberForBusinessText{
+    position: relative;
+    top: -268px;
+    margin-left: 99px;
+}
+.mainText{
+    font-weight: 500;
+    font-size: 34px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.subText{
+  font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+
+}
+.SeeHow{
+  height: 46px;
+  width: 108px;
+  color: white;
+  border-style: hidden;
+  font-size: 18px;
+  font-weight: 300;
+  background: black;
+  border-radius: 9px;
+}
+.rideH2Text{
+    position: relative;
+    top: -731px;
+    color: #333333;
+    height: 19px;
+    padding: 56px 89px;
+    font-size: 38px;
+    background-color: #ffffff;
+}
+.RideWithUberText{
+  position: relative;
+  top: -43px;
+  font-weight: 500;
+  font-family:UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.uberAuto{
+
+    height: 138px;
+    position: relative;
+    top: -750px;
+    color: black;
+    padding: 45px 67px
+}
+#autoimg{
+  margin-left: 43px;
+  position: relative;
+  top: 13px
+}
+.Autoh4{
+ 
+  position: relative;
+    left: 207px; 
+    top: -147px;
+    font-size: 21px;
+    font-weight: 500;
+}
+#autoText{
+    position: relative;
+    left: 209px;
+    top: -167px;
+}
+
+#rightArrow{
+    position: relative;
+    top: -370px;
+    left: 563px;
+    font-size: 20px;
+}
+#bikeImg{
+  position: relative;
+  left: 640px;
+  top: -302px;
+}
+
+.bikeH4{
+  position: relative;
+    top: -458px;
+    left: 823px;
+    font-size: 21px;
+    font-weight: 500;
+}
+.bikeText{
+  
+  position: relative;
+  left: 824px;
+  top: -483px;
+}
+#rightArrow1{
+
+position: relative;
+    top: -550px;
+    left: 1155px;
+    font-size: 20px;
+}
+.KeyDiv{
+  position: relative;
+  top: -750px;
+  height: 200px;
+  color: #121212;
+  background-color: white;
+}
+#keyimg{
+
+  margin-left: 100px;
+  margin-top: 50px;
+}
+#keyH4{
+  font-weight: 500;
+  position: relative;
+  left: 274px;
+  font-size: 21px;
+  top: -150px;
+
+}
+#KeyText{
+  position: relative;
+  left: 274px;
+  top: -171px;
+
+}
+#rightArrow2{
+  position: relative;
+  top: -350px;
+  left: 629px;
+  font-size: 20px;
+
+}
+#bagimg{
+  position: relative;
+  top: -300px;
+  left: 710px;
+}
+.bagH4{
+  position: relative;
+  top: -447px;
+  left: 891px;
+  font-size: 21px;
+  font-weight: 500;
+
+}
+.bagText{
+  left: 892px;
+  position: relative;
+  top: -467px;
+
+}
+#rightArrow3{
+  position: relative;
+  left: 1221px;
+  top: -514px;
+  font-size: 20px;
+}
+.SafetyText{
+  top: -684px;
+  position: relative;
+  padding: 4px 64px;
+  height: 481px;
+
+}
+.SafetyH2{
+  margin-left: 14px;
+  font-weight: 500;
+  font-size: 33px;
+  color: #333333;
+}
+#imgDriver{
+  margin-right: 44px;
+  margin-left: 18px;
+}
+.imgJun{
+}
+.aboutDiv{
+  padding: 56px 110px;
+  position: relative;
+  top: -698px;
+  height: 92px;
+}
+#iconf{
+  font-size: 21px;
+}
+.aboutH5{
+  font-size: 17px;
+  position: relative;
+  top: -20px;
+  font-weight: 600;
+}
+.aboutText{
+  font-size: 17px;
+  position: relative;
+  top: -43px;
+}
+.secondimg{
+  position: relative;
+  left: 450px;
+  top: -160px;
+  font-size: 23px;
+}
+.newsH5{
+  position: relative;
+  left: 450px;
+  top: -142px;
+  font-size: 17px;
+  font-weight: 600;
+}
+.newstext{
+  position: relative;
+  left: 450px;
+  font-size: 17px;
+  top: -166px;
+}
+#icon2{
+  position: relative;
+  top: -275px;
+  font-size: 21px;
+  left: 850px;
+}
+.GlobalH5{
+  position: relative;
+  left: 850px;
+  top: -300px;
+  font-size: 17px;
+  font-weight: 600;
+}
+.globalText{
+  position: relative;
+  left: 850px;
+  font-size: 17px;
+  top: -328px;
+
+}
+
+
+.apk{
+  background-color:  #f6f6f6;
+  position: relative;
+  top: -709px;
+  height: 384px;
+  padding: 7px 76px;
+}
+.apkH4{
+  font-size: 33px;
+  font-weight: 500;
+  color: #333333
+
+}
+.leftBox{
+  width: 40%;
+  height: 188px;
+  padding: 10px 26px;
+background-color: white;
+}
+.UberBlackBox1{
+  width: 32%;
+  height: 80%;
+  color: white;
+  position: relative;
+  top: -32px;
+  background-color: black;
+}
+.UberBoxText{
+  top: 15px;
+  left: 22px;
+  position: relative;
+  font-size: 50px;
+  font-weight: 400;
+
+}
+#rightArrow1BlakBox{
+    top: -25px;
+    position: relative;
+    font-size: 44px;
+    left: 27px;
+
+}
+.DownloadDriverApp{
+position: relative;
+   
+    font-weight: 500;
+  
+    font-size: 21px;
+    left: 176px;
+    top: -139px;
+}
+#rightArrow1WhiteBox{
+  position: relative;
+  font-size: 20px;
+  top: -183px;
+  left: 446px;
+}
+.RightBox{
+  background-color: white;
+  height: 162px;
+  padding: 25px 29px;
+  float: right;
+  width: 41%;
+  position: relative;
+  top: -212px;
+}
+.UberBlackBox2{
+  padding: 10px 13px;
+  height: 140px;
+  width: 30%;
+  color: white;
+background-color: #121212;
+}
+.UberBoxText2{
+  font-size: 50px;
+  position: relative;
+  top: -17px;
+  left: 19px;
+  
+}
+.DownloadUberApp{
+  font-size: 21px;
+  float: right;
+  position: relative;
+  top: -113px;
+  left: -50px;
+  font-weight: 500;
+}
+#rightArrow2WhiteBox{
+  position: relative;
+  float: right;
+  left: 233px;
+  top: -83px;
+  font-size: 20px;
+}
+.signupdrive{
+
+  padding: 42px 74px;
+  position: relative;
+  top: -700px;
+  width: 39%
+
+}
+.DriveH3{
+  font-weight: 500;
+  font-size: 40px;
+}
+#signupdriveArrow{
+  float: right;
+  font-size: 37px;
+  position: relative;
+  top: -80px;
+}
+.signupride{
+padding: 23px 74px;
+width: 39%;
+float: right;
+position: relative;
+top: -917px;
+
+}
+.RideH3{
+
+  font-weight: 500;
+  top: 14px;
+  position: relative;
+  font-size: 40px;
+}
+#signuprideArrow{
+  float: right;
+  font-size: 37px;
+  position: relative;
+  top: -69px;
+}
+#hrDrive{
+
+
+}
+
+.hrRide{
+
+
+}
+.footerMain{
+ 
+    background: black;
+    color: #f0f0f0;
+    position: relative;
+    top: -465px;
+    height: 384px;
+}
+.footer{
+    background-color:black;
+    width: 100%;
+    position: relative;
+    top: -216px;
+    height: 100%;
+    padding: 58px 72px;
+}
+.UberUl{
+  list-style: none;
+}
+.footerUber{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.helpcenter{
+  font-size: 18px;
+}
+.footerList2{
+
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+}
+
+.ListsClass{
+list-style: none;
+}
+.ListHead{
+font-weight: 600;
+margin-bottom: 10px;
+}
+.ListsClass{
+  line-height: 2;
+}
